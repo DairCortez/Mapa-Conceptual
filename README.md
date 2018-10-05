@@ -95,6 +95,9 @@
 <p>Fuente:  “Mecanismos celulares y moleculares de la neurotoxicidad por plomo”. Salud mental ,vol 28, No 2, abril 2005 [11]</p>
 <p>Comentario: Estas sintomatologías suelen ser más graves en niños y de aparición más temprana. Aunque la anemia severa es la más evidente, no es la más común. El problema ocurre mucho antes cuando es leve y asintomática, según cuadro entre los 10 y 20 microgramos por decilitro. En esa etapa se presenta la protoporfirina eritrocitaria; es decir, deficiencia de hierro en sangre por reemplazo de otro metal lo que causa disminución de la producción de hemoglobina; en consecuencia, anemia.</p>
 
+<p> Por las consideraciones de nuestra investigación concluimos la siguiente definición del problema:</p>
+<h3> "AUSENCIA DE PRECISIÓN EN EL DIAGNÓSTICO DE ANEMIA FERROPÉNICA EN NIÑOS DE 0 A 3 AÑOS."
+
 <h2>REFERENCIAS BIBLIOGRÁFICAS:</h2>
 <p>[1] Organización Mundial de la Salud “Carencia de micronutrientes”. http://www.who.int/nutrition/topics/ida/es/ </p>
 <p>[2] Alexandria Kristensen-Cabrera, autora principal, estudio el caso a través de entrevistas con el Dr. Juan Pablo Peña-Rosas, El Dr. Luis Gabriel Cuervo, mentor, Ruben Grajeda, Michele Gilbert y Louisa Stuwe revisaron y editaron, Louisa Stuwe tradujo el documento al español revisado por María Medina, Christopher Khanoyan ayudó con el formateo, Jane Isabelle Dempster, fotógrafa,  PAHO / WHO. “Anemia por deficiencia de hierro: investigación sobre la fortificación con hierro para soluciones eficientes y factibles”. https://www.paho.org/hq/index.php?option=com_content&view=article&id=11679:iron-deficiency-anemia-research-on-iron-fortification-for-efficient-feasible-solutions&Itemid=40275&lang=en </p>
