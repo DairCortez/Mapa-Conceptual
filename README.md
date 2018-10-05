@@ -10,7 +10,7 @@
 <p>- El índice de desarrollo del niño en la primera infancia a nivel departamental, 2008
 La primera infancia es una etapa fundamental en el crecimiento y desarrollo de todo ser humano. El crecimiento y el desarrollo son interdependientes y su etapa más crítica tiene lugar entre la concepción y los primeros años de vida, época en la cual el cerebro se forma y se desarrolla a la máxima velocidad. Si en estos períodos se altera el adecuado desarrollo del cerebro se producirán consecuencias, que afectarán al niño durante toda su vida. [4] </p>
 <center>
-  <img src="images/desarrollo.jpeg" alt="" class="img-fluid img-rounded">
+  <img src="images/desarrollo.jpg" alt="" class="img-fluid img-rounded">
 </center>
 <p>- Prueba PISA 2015 - Jóvenes de 15 años de edad. 
 En lo que respecta a Ciencia Perú obtuvo un puntaje de 397, nivel 1, Perú no se diferencia significativamente de Indonesia y Brasil. En Matemáticas Perú obtuvo 387, nivel 1, Perú no se diferencia significativamente de Colombia, Indonesia y Jordania. Finalmente, en lectura Perú obtuvo 398, nivel 1, Perú no se diferencia significativamente de Albania, Qatar, Georgia e Indonesia. [5] 
