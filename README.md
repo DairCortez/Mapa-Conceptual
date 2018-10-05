@@ -95,7 +95,19 @@
 <p>Fuente:  “Mecanismos celulares y moleculares de la neurotoxicidad por plomo”. Salud mental ,vol 28, No 2, abril 2005 [11]</p>
 <p>Comentario: Estas sintomatologías suelen ser más graves en niños y de aparición más temprana. Aunque la anemia severa es la más evidente, no es la más común. El problema ocurre mucho antes cuando es leve y asintomática, según cuadro entre los 10 y 20 microgramos por decilitro. En esa etapa se presenta la protoporfirina eritrocitaria; es decir, deficiencia de hierro en sangre por reemplazo de otro metal lo que causa disminución de la producción de hemoglobina; en consecuencia, anemia.</p>
 
-<p> Por las consideraciones de nuestra investigación concluimos la siguiente definición del problema:</p>
+<p>Fuente: Contaminación por plomo en una zona urbano marginal del Callao en Perú 2012</p>
+<p>Figura: Correlación entre distritos de Lima-Callao y la cantidad de plomo en sangre en niños.</p>
+<center>
+  <img src="images/t27.png" alt="" class="img-fluid img-rounded">
+</center>
+<p>Comentario: Según la modificación de la “Guía práctica clínica para el manejo de pacientes con intoxicación por plomo” en el Perú tener 10 microgramos de plomo por decilitro en sangre es considerado toxico.  se observa que en el Callao el promedio de niños supera ese límite permitido.</p>
+<p>Fuente: Caracterización de la anemia en niños menores de cinco años de zonas urbanas de Huancavelica y Ucayali en el Perú 2015</p>
+<p>En Huancavelica, el 29,0% de los niños tuvo un solo parásito y el 55,4% dos o más, mientras que en Coronel Portillo el 22,4% de los niños tuvo un solo parásito y el 69,7% dos o más. Al analizar la presencia de algún parásito relacionado al desarrollo de anemia (Ancylostoma duodenale, Ascaris lumbricoides, Giardia lamblia o Trichuris trichiura), el 68,3% de los anémicos de Huancavelica y el 84,1% en Coronel Portillo presentaban al menos uno de los parásitos</p>
+<center>
+  <img src="images/t29.png" alt="" class="img-fluid img-rounded">
+</center>
+
+<h3> Por las consideraciones de nuestra investigación concluimos la siguiente definición del problema:</h3>
 <h3> "AUSENCIA DE PRECISIÓN EN EL DIAGNÓSTICO DE ANEMIA FERROPÉNICA EN NIÑOS DE 0 A 3 AÑOS."
 
 <h2>REFERENCIAS BIBLIOGRÁFICAS:</h2>
