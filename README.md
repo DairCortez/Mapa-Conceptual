@@ -87,6 +87,14 @@
 <p>La Organización Mundial de la Salud (OMS) estima que más de 40% de las mujeres embarazadas en el mundo sufren anemia y al menos a la mitad se le atribuye a la carencia de hierro. Esto se debe a que las gestantes deben consumir cantidades extra de hierro y ácido fólico para satisfacer sus propias necesidades y además las del feto en crecimiento.</p>
 <p>En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen de anemia en el Perú, según detalla la Encuesta Demográfica y de Salud Familiar (ENDES) 2017 elaborada por Instituto Nacional de Estadística e Informática (INEI). Por lugar de residencia, Lima Metropolitana es el que concentra la mayor cantidad de mujeres embarazadas con anemia con un 23,1%, seguido de la selva con 22,9%, la sierra y el resto de la costa con 18,9%. Asimismo, el 23,3% de las mujeres que están dando de lactar también padece anemia.</p>
 
+<h2>Otras Causas:</h2>
+<p>Figura: Correlación entre distintos niveles de plomo en sangre (expresado en microgramos por decilitro) y las distintas alteraciones patológicas.</p>
+<center>
+  <img src="images/t26.png" alt="" class="img-fluid img-rounded">
+</center>
+<p>Fuente:  “Mecanismos celulares y moleculares de la neurotoxicidad por plomo”. Salud mental ,vol 28, No 2, abril 2005 [11]</p>
+<p>Comentario: Estas sintomatologías suelen ser más graves en niños y de aparición más temprana. Aunque la anemia severa es la más evidente, no es la más común. El problema ocurre mucho antes cuando es leve y asintomática, según cuadro entre los 10 y 20 microgramos por decilitro. En esa etapa se presenta la protoporfirina eritrocitaria; es decir, deficiencia de hierro en sangre por reemplazo de otro metal lo que causa disminución de la producción de hemoglobina; en consecuencia, anemia.</p>
+
 <h2>REFERENCIAS BIBLIOGRÁFICAS:</h2>
 <p>[1] Organización Mundial de la Salud “Carencia de micronutrientes”. http://www.who.int/nutrition/topics/ida/es/ </p>
 <p>[2] Alexandria Kristensen-Cabrera, autora principal, estudio el caso a través de entrevistas con el Dr. Juan Pablo Peña-Rosas, El Dr. Luis Gabriel Cuervo, mentor, Ruben Grajeda, Michele Gilbert y Louisa Stuwe revisaron y editaron, Louisa Stuwe tradujo el documento al español revisado por María Medina, Christopher Khanoyan ayudó con el formateo, Jane Isabelle Dempster, fotógrafa,  PAHO / WHO. “Anemia por deficiencia de hierro: investigación sobre la fortificación con hierro para soluciones eficientes y factibles”. https://www.paho.org/hq/index.php?option=com_content&view=article&id=11679:iron-deficiency-anemia-research-on-iron-fortification-for-efficient-feasible-solutions&Itemid=40275&lang=en </p>
@@ -97,7 +105,8 @@
 <p>[7] Periódico La República, Milagros Berríos, redactor. “Casi el 70 % de jóvenes no sigue estudios superiores al concluir el colegio”  3 Septiembre 2017. </p>
 <p>[8] INEI “Perú: Encuesta Demográfica y de Salud Familiar 2017” https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1525/index.html</p>
 <p>[9] José Pacheco-Romero, Director, Revista Peruana de Ginecología y Obstetricia, Rev. peru. ginecol. obstet. vol.61 no.3 Lima jul./set. 2015 “Del editor acerca del Consenso sobre la Hemorragia Obstétrica publicado por ACOO” http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2304-51322015000300002 </p>
-<p>[10] Licenciada Carla Delgado Paredes, coordinadora de Enfermería del Centro Médico La Ensenada del Sisol. RPP Noticias, 27 Jun 2014. https://vital.rpp.pe/salud/bebes-con-bajo-peso-pueden-desarrollar-anemia-noticia-703730</p> 
+<p>[10] Licenciada Carla Delgado Paredes, coordinadora de Enfermería del Centro Médico La Ensenada del Sisol. RPP Noticias, 27 Jun 2014. https://vital.rpp.pe/salud/bebes-con-bajo-peso-pueden-desarrollar-anemia-noticia-703730</p>
+<p>[11]“Mecanismos celulares y moleculares de la neurotoxicidad por plomo”. Salud mental ,vol 28, No 2, abril 2005</p>
 
 
 
