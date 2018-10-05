@@ -63,9 +63,41 @@
 <center>
   <img src="images/9.jpg" alt="" class="img-fluid img-rounded">
 </center>
+<p>PERÚ: ACTIVIDADES DE LA ATENCIÓN PRENATAL PARA LAS MADRES DEL ULTIMO NACIDO VIVO EN LOS ÚLTIMOS CINCO AÑOS, 2012 Y 2017 (Porcentaje</p>
+<center>
+  <img src="images/10.jpg" alt="" class="img-fluid img-rounded">
+</center>
+<p>- Atención postnatal</p>
+<p>El control postnatal, especialmente si ocurre tempranamente, es importante para reconocer signos de peligro para la madre y la niña o el niño recién nacido. Estos episodios de peligro pueden ser la hemorragia postparto en la madre, la asfixia de la o del recién nacido, o la infección en ambos. [8] </p>
+<p>El consenso sobre la Hemorragia Obstétrica publicado por el Colegio Americano de Obstetras y ginecólogos Informa, principalmente, sobre la hemorragia postparto donde se considera la complicación severa más común del parto. [9] </p>
+<p>PERÚ: MUJERES DE 15 A 49 AÑOS DE EDAD POR MOMENTO DEL PRIMER CONTROL POSTNATAL PARA EL NACIMIENTO MAS RECIENTE DE LOS CINCO AÑOS PRECENDENTES A LA ENCUESTA, 2017 (Distribución Porcentual)</p>
+<center>
+  <img src="images/11.jpg" alt="" class="img-fluid img-rounded">
+</center>
+<p>PERÚ: MUJERES DE 15 A 49 AÑOS DE EDAD POR MOMENTO DEL PRIMER CONTROL POSTNATAL PARA EL NACIMIENTO MÁS RECIENTE QUE NO NACIÓ EN UN ESTABLECIMIENTO DE SALUD, SEGÚN ÁMBITO GEOGRÁFICO, 2017 (Porcentaje)</p>
+<center>
+  <img src="images/12.jpg" alt="" class="img-fluid img-rounded">
+</center>
 
+<h3> Mortalidad Materna</h3>
+<center>
+  <img src="images/13.jpg" alt="" class="img-fluid img-rounded">
+</center>
+<h3>Anemia materna</h3>
+<p>La Organización Mundial de la Salud (OMS) estima que más de 40% de las mujeres embarazadas en el mundo sufren anemia y al menos a la mitad se le atribuye a la carencia de hierro. Esto se debe a que las gestantes deben consumir cantidades extra de hierro y ácido fólico para satisfacer sus propias necesidades y además las del feto en crecimiento.</p>
+<p>En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen de anemia en el Perú, según detalla la Encuesta Demográfica y de Salud Familiar (ENDES) 2017 elaborada por Instituto Nacional de Estadística e Informática (INEI). Por lugar de residencia, Lima Metropolitana es el que concentra la mayor cantidad de mujeres embarazadas con anemia con un 23,1%, seguido de la selva con 22,9%, la sierra y el resto de la costa con 18,9%. Asimismo, el 23,3% de las mujeres que están dando de lactar también padece anemia.</p>
 
-
+<h2>REFERENCIAS BIBLIOGRÁFICAS:</h2>
+<p>[1] Organización Mundial de la Salud “Carencia de micronutrientes”. http://www.who.int/nutrition/topics/ida/es/ </p>
+<p>[2] Alexandria Kristensen-Cabrera, autora principal, estudio el caso a través de entrevistas con el Dr. Juan Pablo Peña-Rosas, El Dr. Luis Gabriel Cuervo, mentor, Ruben Grajeda, Michele Gilbert y Louisa Stuwe revisaron y editaron, Louisa Stuwe tradujo el documento al español revisado por María Medina, Christopher Khanoyan ayudó con el formateo, Jane Isabelle Dempster, fotógrafa,  PAHO / WHO. “Anemia por deficiencia de hierro: investigación sobre la fortificación con hierro para soluciones eficientes y factibles”. https://www.paho.org/hq/index.php?option=com_content&view=article&id=11679:iron-deficiency-anemia-research-on-iron-fortification-for-efficient-feasible-solutions&Itemid=40275&lang=en </p>
+<p>[3] J. M. Moraleda Jiménez Jefe de Servicio de Hematología y Hemoterapia Hospital Clínico Universitario Virgen de la Arrixaca. Murcia Catedrático de Medicina. Universidad de Murcia. “Pregrado de Hematología 4ta edición” 2017, Sociedad Española de Hematología y Hematoterapia”.</p>
+<p>[4] Fondo de las Naciones Unidas para la Infancia (UNICEF), Instituto Nacional de Estadística e Informática (INEI). Hecho en Depósito Legal de la Biblioteca Nacional del Perú Nº 2008-05379 Primera edición, Lima, abril del 2008. Martín Benavides y Carmen Ponce del Grupo de Análisis para el Desarrollo (GRADE) en coordinación con UNICEF, Gisella Scheuch, diseño y diagramación “Estado de la Niñez en el Perú”. https://www.unicef.org/peru/spanish/Estado_de_la_Ninez_Peru_abril_2008-2.pdf</p> 
+<p>[5] Ministerio de Educación Perú, UMC Oficina de medición de Calidad de los aprendizajes “Evaluación PISA 2015 Primeros resultados”. http://umc.minedu.gob.pe/wp-content/uploads/2016/12/presentacion-web-PISA.pdf </p>
+<p>[6] Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa (Sineace), Se terminó de imprimir en noviembre de 2017. Hecho el Depósito Legal en la Biblioteca Nacional del Perú N.° 2017-15836. “EDUCACIÓN TECNOLÓGICA Y PRODUCCIÓN: EXPERIENCIAS DE ARTICULACIÓN DE LOS INSTITUTOS DE EDUCACIÓN SUPERIOR TECNOLÓGICA CON EL SECTOR PRODUCTIVO”. http://repositorio.sineace.gob.pe/bitstream/handle/sineace/4085/Educacion%20Tecnologica%20y%20Produccion...%20WEB.pdf?sequence=1&isAllowed=y </p>
+<p>[7] Periódico La República, Milagros Berríos, redactor. “Casi el 70 % de jóvenes no sigue estudios superiores al concluir el colegio”  3 Septiembre 2017. </p>
+<p>[8] INEI “Perú: Encuesta Demográfica y de Salud Familiar 2017” https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1525/index.html</p>
+<p>[9] José Pacheco-Romero, Director, Revista Peruana de Ginecología y Obstetricia, Rev. peru. ginecol. obstet. vol.61 no.3 Lima jul./set. 2015 “Del editor acerca del Consenso sobre la Hemorragia Obstétrica publicado por ACOO” http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2304-51322015000300002 </p>
+<p>[10] Licenciada Carla Delgado Paredes, coordinadora de Enfermería del Centro Médico La Ensenada del Sisol. RPP Noticias, 27 Jun 2014. https://vital.rpp.pe/salud/bebes-con-bajo-peso-pueden-desarrollar-anemia-noticia-703730</p> 
 
 
 
