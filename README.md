@@ -92,7 +92,7 @@
   <img src="images/t26.png" alt="" class="img-fluid img-rounded">
 </center>
 <p>Figura: Correlación entre distintos niveles de plomo en sangre (expresado en microgramos por decilitro) y las distintas alteraciones patológicas.</p>
-<p>Fuente:  “Mecanismos celulares y moleculares de la neurotoxicidad por plomo”. Salud mental ,vol 28, No 2, abril 2005 [11]</p>
+<p>Fuente:  “Mecanismos celulares y moleculares de la neurotoxicidad por plomo”. Salud mental ,vol 28, No 2, abril 2005</p>
 <p>Comentario: Estas sintomatologías suelen ser más graves en niños y de aparición más temprana. Aunque la anemia severa es la más evidente, no es la más común. El problema ocurre mucho antes cuando es leve y asintomática, según cuadro entre los 10 y 20 microgramos por decilitro. En esa etapa se presenta la protoporfirina eritrocitaria; es decir, deficiencia de hierro en sangre por reemplazo de otro metal lo que causa disminución de la producción de hemoglobina; en consecuencia, anemia.</p>
 
 <center>
