@@ -108,6 +108,21 @@
 <p>Fuente: Caracterización de la anemia en niños menores de cinco años de zonas urbanas de Huancavelica y Ucayali en el Perú 2015</p>
 <p>En Huancavelica, el 29,0% de los niños tuvo un solo parásito y el 55,4% dos o más, mientras que en Coronel Portillo el 22,4% de los niños tuvo un solo parásito y el 69,7% dos o más. Al analizar la presencia de algún parásito relacionado al desarrollo de anemia (Ancylostoma duodenale, Ascaris lumbricoides, Giardia lamblia o Trichuris trichiura), el 68,3% de los anémicos de Huancavelica y el 84,1% en Coronel Portillo presentaban al menos uno de los parásitos</p>
 
+<h1> Impacto Económico </h1>
+  
+  <h2>Costo por Pérdida Cognitiva</h2>
+  <center>
+  <img src="images/costo1.png" alt="" class="img-fluid img-rounded">
+</center>
+  <h2>Costo por Pérdida de Productividad</h2>
+  <center>
+  <img src="images/costo3.png" alt="" class="img-fluid img-rounded">
+</center>
+  <h2>Costo por Repitencia Escolar</h2>
+  <center>
+  <img src="images/costo2.png" alt="" class="img-fluid img-rounded">
+</center>
+ 
 <h3> Por las consideraciones de nuestra investigación concluimos la siguiente definición del problema:</h3>
 <h3> "AUSENCIA DE PRECISIÓN EN EL DIAGNÓSTICO DE ANEMIA FERROPÉNICA EN NIÑOS DE 0 A 3 AÑOS."
 
