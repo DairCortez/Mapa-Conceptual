@@ -112,15 +112,15 @@
   
   <h2>Costo por Pérdida Cognitiva</h2>
   <center>
-  <img src="images/costo1.png" alt="" class="img-fluid img-rounded">
+  <img src="images/costo1.PNG" alt="" class="img-fluid img-rounded">
 </center>
   <h2>Costo por Pérdida de Productividad</h2>
   <center>
-  <img src="images/costo3.png" alt="" class="img-fluid img-rounded">
+  <img src="images/costo3.PNG" alt="" class="img-fluid img-rounded">
 </center>
   <h2>Costo por Repitencia Escolar</h2>
   <center>
-  <img src="images/costo2.png" alt="" class="img-fluid img-rounded">
+  <img src="images/costo2.PNG" alt="" class="img-fluid img-rounded">
 </center>
  
 <h3> Por las consideraciones de nuestra investigación concluimos la siguiente definición del problema:</h3>
