@@ -3,6 +3,11 @@
 <p>El hierro es un micronutriente esencial para el organismo humano. Interviene en el transporte de oxígeno, en la respiración celular, en la síntesis de ácido desoxirribonucleico (ADN) y en la proliferación celular. El déficit de hierro genera el agotamiento de sus reservas y una falta de disponibilidad para los eritroblastos (células precursoras de los glóbulos rojos) que, en caso de persistir, ocasiona la anemia ferropénica. La importancia de esta condición radica en que el déficit de hierro altera el desarrollo cognitivo durante la infancia, disminuye la actividad física e intelectual del adulto y su productividad, y aumenta la morbimortalidad asociada al embarazo. La anemia en el embarazo tiene numerosos efectos en la salud para el bebé, como mayores riesgos de retraso del crecimiento, ceguera, enfermedades graves, disminución del rendimiento cognitivo, defectos de la columna vertebral y del cerebro. La anemia en el embarazo también aumenta el riesgo de aborto involuntario, muerte fetal y bajo peso al nacer, lo que aumenta los riesgos de mortalidad infantil, así como las complicaciones en el parto que causan hemorragias que corresponden a un mayor riesgo de depresión materna y mortalidad materna. Además, los bebés y niños pequeños con anemia por deficiencia de hierro tienen más probabilidades de tener déficit de atención, reducción de la coordinación motora y dificultades de lenguaje. Para los niños en edad escolar, este tipo de anemia también disminuye la participación escolar. Existen pruebas sólidas que demuestran que el tratamiento con hierro para los niños en edad escolar puede mejorar los puntajes bajos de la capacidad cognitiva y el logro educativo.[2] Ello es debido a que el hierro es necesario no solo para la eritropoyesis (proceso de producción de glóbulos rojos) sino también para el correcto funcionamiento de los músculos, del corazón, del sistema nervioso central y de otros órganos y tejidos.[3]</p>
 
 <h1>Mapa Conceptual</h1>
+
+<center>
+  <img src="images/mapa.PNG" alt="" class="img-fluid img-rounded">
+</center>
+
 <h2>Niños</h2>
 <h3> Desarrollo cognitivo en los niños </h3>
 <p>- El índice de desarrollo del niño en la primera infancia a nivel departamental, 2008</p>
